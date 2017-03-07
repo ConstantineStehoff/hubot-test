@@ -1,0 +1,11 @@
+{
+    "name":"hubot-test",
+    "dependencies": {
+        "hubot":"^2.19.0",
+        "hubot-symphony": "1.1.9"
+    },
+    "devDependencies": {
+        "generator-hubot":"^0.4.0",
+        "yo": "^1.8.5"
+    }
+}
