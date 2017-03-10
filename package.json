@@ -5,21 +5,18 @@
   "author": "Konstantin",
   "description": "Bot",
   "dependencies": {
-    "hubot": "^2.19.0",
-    "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.2.6",
-    "hubot-google-translate": "^0.2.0",
-    "hubot-help": "^0.2.0",
-    "hubot-heroku-keepalive": "^1.0.2",
-    "hubot-maps": "0.0.2",
-    "hubot-pugme": "^0.1.0",
-    "hubot-redis-brain": "0.0.3",
-    "hubot-rules": "^0.1.1",
-    "hubot-scripts": "^2.17.2",
-    "hubot-shipit": "^0.2.0",
-    "hubot-symphony": "^1.1.9"
-  },
-  "engines": {
-    "node": "0.10.x"
+    "babel": "^6.5.2",
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.11.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "body-parser": "^1.15.2",
+    "eslint": "^3.2.2",
+    "express": "^4.14.0",
+    "forever": "^0.15.2",
+    "fs": "0.0.2",
+    "nodemon": "^1.10.0",
+    "request": "^2.74.0",
+    "yahoo-finance": "^0.2.14"
   }
 }
